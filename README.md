@@ -123,7 +123,7 @@ Key results of the analysis include:
 │
 ├── panel_model/
 │   ├── panel_data.xlsx
-│   └── panel_model.R
+│   └── panel_regression.R
 │
 ├── Dashboard.png
 └── README.md
