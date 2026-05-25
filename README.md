@@ -111,8 +111,6 @@ Key results of the analysis include:
 
 ## Repository Structure
 
-## Repository Structure
-
 ```text
 ├── data/
 │   ├── raw/
