@@ -124,7 +124,7 @@ Key results of the analysis include:
 ├── panel_model/
 │   ├── panel_data.xlsx
 │   └── panel_regression.R
-│── temporary_immigration_dashboard.twbx
+│── Temporary Immigration from Romania 2013-2024.twbx
 ├── Dashboard.png
 └── README.md
 ```
