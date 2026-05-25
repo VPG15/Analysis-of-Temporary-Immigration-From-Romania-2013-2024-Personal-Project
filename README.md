@@ -109,6 +109,24 @@ Key results of the analysis include:
 - Bucharest Municipality as a major outlier in immigration attraction.
 
 
+## Repository Structure
+
+```text
+├── data/
+│   ├── raw/
+│   ├── processed/
+│   └── shapefiles/
+│
+├── notebooks_processing/
+│   ├── data_processing.ipynb
+│   └── data_processing_merge.ipynb
+│
+├── panel_model/
+│   ├── panel_data.xlsx
+│   └── panel_model.R
+│
+├── Dashboard.png
+└── README.md
 
 ---
 
