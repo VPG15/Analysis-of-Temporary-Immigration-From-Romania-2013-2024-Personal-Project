@@ -111,6 +111,8 @@ Key results of the analysis include:
 
 ## Repository Structure
 
+## Repository Structure
+
 ```text
 ├── data/
 │   ├── raw/
@@ -127,10 +129,10 @@ Key results of the analysis include:
 │
 ├── Dashboard.png
 └── README.md
-
+```
 
 ---
-```text
+
 ## Technologies Used
 
 - Python
@@ -143,7 +145,6 @@ Key results of the analysis include:
 - sandwich
 - Tableau
 - Excel
-
 
 ## Future Improvements
 
