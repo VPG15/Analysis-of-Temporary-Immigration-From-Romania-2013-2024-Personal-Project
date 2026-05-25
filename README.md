@@ -69,7 +69,8 @@ Dashboard features:
 - interactive county-level map,
 - comparative visualizations,
 - scatter plot analysis between variables.
-
+- 
+The county-level map was created in Tableau by joining the processed panel dataset with Romanian county shapefiles in order to build geographic visualizations.
 
 **[👉 View the Dashboard on Tableau Public](https://public.tableau.com/app/profile/vlad.pirvan/viz/TemporaryImmigrationfromRomania2013-2024/Dashboard)**
 
@@ -89,6 +90,14 @@ Methods used:
 - Residual diagnostics and normality tests
 
 The analysis aimed to identify the socio-economic determinants influencing temporary immigration across Romanian counties over time.
+
+The econometric analysis script includes:
+- descriptive statistics,
+- correlation analysis,
+- panel regression estimation,
+- diagnostic testing,
+- robust standard errors,
+- model interpretation and comparison.
 
 
 ## Main Findings
