@@ -124,10 +124,37 @@ Key results of the analysis include:
 ├── panel_model/
 │   ├── panel_data.xlsx
 │   └── panel_regression.R
-│── Temporary Immigration from Romania 2013-2024.twbx
+├── Temporary Immigration from Romania 2013-2024.twbx
 ├── Dashboard.png
 └── README.md
 ```
+## Folder Description
+
+### data/
+Contains all datasets used in the project.
+
+- `raw/` → original raw datasets downloaded from INS/TEMPO Online and National Bank report.
+- `processed/` → processed datasets obtained after data cleaning and feature engineering in Python.
+- `shapefiles/` → Romanian county shapefiles used for geographic visualizations in Tableau from geo-spatial.org.
+
+### notebooks_processing/
+Contains Jupyter Notebook files used for:
+- data cleaning,
+- preprocessing,
+- variable construction,
+- merging datasets into the final panel structure.
+
+### panel_model/
+Contains the final panel dataset and the R script used for:
+- descriptive statistics,
+- panel econometric analysis,
+- diagnostic testing,
+- model estimation and interpretation.
+
+### tableau_dashboard/
+Contains:
+- the Tableau packaged workbook (`.twbx`),
+- dashboard preview image used in the README.
 
 ---
 
