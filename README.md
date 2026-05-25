@@ -160,7 +160,7 @@ Contains:
 
 ---
 
-## Technologies Used
+## Main Technologies Used
 
 - Python
 - Jupyter Notebook
