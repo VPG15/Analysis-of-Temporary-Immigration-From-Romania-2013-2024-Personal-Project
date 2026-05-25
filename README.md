@@ -128,8 +128,9 @@ Key results of the analysis include:
 ├── Dashboard.png
 └── README.md
 
----
 
+---
+```text
 ## Technologies Used
 
 - Python
