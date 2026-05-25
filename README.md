@@ -69,7 +69,6 @@ Dashboard features:
 - interactive county-level map,
 - comparative visualizations,
 - scatter plot analysis between variables.
-- 
 The county-level map was created in Tableau by joining the processed panel dataset with Romanian county shapefiles in order to build geographic visualizations.
 
 **[👉 View the Dashboard on Tableau Public](https://public.tableau.com/app/profile/vlad.pirvan/viz/TemporaryImmigrationfromRomania2013-2024/Dashboard)**
