@@ -103,8 +103,6 @@ Key results of the analysis include:
 
 ---
 
-# 9. Technologies Used
-
 ## Technologies Used
 
 - Python
