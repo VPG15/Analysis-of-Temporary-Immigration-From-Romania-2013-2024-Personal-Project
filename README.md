@@ -159,6 +159,47 @@ Contains:
 - dashboard preview image used in the README.
 
 ---
+## Project Setup
+
+This repository contains both Python and R components used for data processing, statistical analysis, and visualization.
+
+### Files
+
+- `requirements.txt`  
+  Contains the Python packages required to run the Jupyter notebooks and data processing scripts.
+
+- `r_packages.txt`  
+  Contains the R packages required for the panel data econometric analysis.
+
+- `.gitignore`  
+  Specifies files and folders ignored by Git, such as the virtual environment (`venv/`) and temporary notebook files.
+
+### Python Environment Setup
+
+It is recommended to use a virtual environment:
+
+```bash
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+```
+
+### R Packages Installation
+
+Install the required R packages using:
+
+```r
+install.packages(c(
+  "plm",
+  "lmtest",
+  "readxl",
+  "car",
+  "nortest",
+  "tseries",
+  "psych",
+  "corrplot"
+))
+```
 
 ## Main Technologies Used
 
